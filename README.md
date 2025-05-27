@@ -1,6 +1,6 @@
 # Kubernetes-multi-node-setup
 
-Execute on Both "Master" & "Worker" Nodes
+*Execute on Both "Master" & "Worker" Nodes
 Disable Swap: Required for Kubernetes to function correctly.
 
 sudo swapoff -a
